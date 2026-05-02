@@ -6,6 +6,8 @@ services:
     startCommand: python main.py
     envVars:
       - key: TELEGRAM_TOKEN
+        value: "8511201775:AAFrkH8sP_6GHHNDSzBac9EfDMwjrpGJC-0"
         sync: false
       - key: ADMIN_ID
+        value: "8520327537"
         sync: false
